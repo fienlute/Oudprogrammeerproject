@@ -1,7 +1,7 @@
 # programmeer project
-Fien Lute
-10752862
-GOals 
+Fien Lute  
+10752862  
+GOals   
 
 ## app: GOals 
 
