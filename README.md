@@ -23,18 +23,18 @@ Ten eerste zal er een start/laadscherm te zien zijn met de titel van de app: ‘
 Er zijn een hoop Bucketlist apps op de markt. Ik heb echter geen app kunnen vinden die door middel van gamificatie mensen hun doelen laat bereiken. Wel heb ik een concept gevonden wat op mijn idee lijkt, maar nooit is uitgevoerd. Ook is er een app genaamd happening waarin je met vrienden in een groep zit en elke dag een opdracht krijgt om te doen. Degene die dit het snelst voltooid krijgt punten. Deze app werkt ook met een puntenschema en een klassement. 
 
 ### mimum viable product/optional to implement
-minimum viable product:
-1.	De gebruiker kan een account aanmaken
-2.	Er kunnen groepen gemaakt worden
-3.	De gebruikers kunnen doelen toevoegen
-4.	Als de gebruiker een doel behaald heeft, worden de punten toegevoegd aan het puntensaldo
-5.	De gebruikers worden in een klassement geordend op hoogte van puntensaldo
-
-optional to implement:
-1.	De doelen moeten worden goed gekeurd door 60% van de gebruikers
-2.	Gebruikers kunnen doelen die ze willen behalen als favoriet instellen 
-3.	Challenge 1 specifieke gebruiker 
-4.	Levels
-5.  Beloningen 
+minimum viable product:  
+1.	De gebruiker kan een account aanmaken  
+2.	Er kunnen groepen gemaakt worden  
+3.	De gebruikers kunnen doelen toevoegen  
+4.	Als de gebruiker een doel behaald heeft, worden de punten toegevoegd aan het puntensaldo  
+5.	De gebruikers worden in een klassement geordend op hoogte van puntensaldo  
+ 
+optional to implement:  
+1.	De doelen moeten worden goed gekeurd door 60% van de gebruikers  
+2.	Gebruikers kunnen doelen die ze willen behalen als favoriet instellen   
+3.	Challenge 1 specifieke gebruiker   
+4.	Levels  
+5.  Beloningen   
 
 
